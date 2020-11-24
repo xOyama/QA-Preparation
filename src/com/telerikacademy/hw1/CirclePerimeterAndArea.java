@@ -1,4 +1,4 @@
-package com.telerikacademy;
+package com.telerikacademy.hw1;
 import java.util.Scanner;
 
 public class CirclePerimeterAndArea {

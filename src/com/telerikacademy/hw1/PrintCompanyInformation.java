@@ -1,4 +1,4 @@
-package com.telerikacademy;
+package com.telerikacademy.hw1;
 
 import javax.xml.transform.SourceLocator;
 import java.util.Scanner;
