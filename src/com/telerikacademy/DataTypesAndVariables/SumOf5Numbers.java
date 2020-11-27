@@ -1,4 +1,4 @@
-package com.telerikacademy.hw1;
+package com.telerikacademy.DataTypesAndVariables;
 
 import java.util.Scanner;
 

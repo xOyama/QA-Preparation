@@ -1,6 +1,5 @@
-package com.telerikacademy.hw1;
+package com.telerikacademy.DataTypesAndVariables;
 
-import javax.xml.transform.SourceLocator;
 import java.util.Scanner;
 
 public class PrintCompanyInformation {

@@ -1,4 +1,4 @@
-package com.telerikacademy.hw1;
+package com.telerikacademy.DataTypesAndVariables;
 import java.util.Scanner;
 public class NumberComparer {
     public static void main(String[] args) {
