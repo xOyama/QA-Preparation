@@ -14,10 +14,9 @@ public class TheBiggestOfFiveNumbers {
         double d = Double.parseDouble(sc.nextLine());
         double e = Double.parseDouble(sc.nextLine());
 
-        double sum = a + b + c +d + e ;
+        double sum = a + b + c + d + e;
 
         System.out.println(sum);
-
 
 
     }
